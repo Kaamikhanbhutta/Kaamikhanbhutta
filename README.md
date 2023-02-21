@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 -->
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
-![facebook](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
+![<instagram>](https://img.shields.io/badge/<Badge Text>-<
+
+![<Facebook>](https://img.shields.io/badge/<Badge Text>-<
 
